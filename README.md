@@ -1,5 +1,14 @@
-## Hi there 👋
-### Welcome to my profile!
+## Olá 💙
+### Bem-vindo ao meu perfil!
+Meu nome é Mariane Penha
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+ ### Você pode entrar em contato comigo :mailbox
+
+marianepenha3@gmail.com
 
 <!--
 **marianepenha0812/marianepenha0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
